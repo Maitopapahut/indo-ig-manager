@@ -1,0 +1,83 @@
+2025-06-30 13:46:19 - User ID 2040287721 (unknownperson3) Unauthorized access attempt
+2025-06-30 13:46:20 - User ID 2040287721 (unknownperson3) Unauthorized access attempt
+2025-06-30 13:46:58 - User ID 2040287721 (unknownperson3) Unauthorized access attempt
+2025-06-30 13:49:36 - User ID 2040287721 (unknownperson3) Started bot
+2025-06-30 13:50:02 - User ID 2040287721 (unknownperson3) Viewed help
+2025-06-30 13:50:06 - User ID 2040287721 (unknownperson3) Viewed help
+2025-06-30 13:50:09 - User ID 2040287721 (unknownperson3) Viewed help
+2025-06-30 13:50:10 - User ID 2040287721 (unknownperson3) Viewed help
+2025-06-30 13:50:58 - User ID 2040287721 (unknownperson3) Viewed credentials (empty)
+2025-06-30 13:55:14 - User ID 2040287721 (unknownperson3) Started bot
+2025-06-30 13:56:03 - User ID 2040287721 (unknownperson3) Viewed credentials (empty)
+2025-06-30 13:56:07 - User ID 2040287721 (unknownperson3) Started bot
+2025-06-30 13:56:35 - User ID 2040287721 (unknownperson3) Viewed help
+2025-06-30 13:57:12 - User ID 2040287721 (unknownperson3) Added Instagram ID: username
+2025-06-30 13:58:15 - User ID 2040287721 (unknownperson3) Started bot
+2025-06-30 13:58:31 - User ID 2040287721 (unknownperson3) Viewed credentials (1 total)
+2025-06-30 14:03:30 - User ID 2040287721 (unknownperson3) Started bot
+2025-06-30 14:03:45 - User ID 2040287721 (unknownperson3) Viewed statistics dashboard
+2025-06-30 14:04:02 - User ID 2040287721 (unknownperson3) Accessed settings panel
+2025-06-30 14:04:27 - User ID 2040287721 (unknownperson3) Started bot
+2025-06-30 14:04:55 - User ID 2040287721 (unknownperson3) Viewed credentials (1 total)
+2025-06-30 14:05:43 - User ID 2040287721 (unknownperson3) Viewed premium help guide
+2025-06-30 14:06:05 - User ID 2040287721 (unknownperson3) Deleted account: username
+2025-06-30 14:07:09 - User ID 2040287721 (unknownperson3) Added Instagram ID: dshfsfyugsueyf
+2025-06-30 14:07:49 - User ID 2040287721 (unknownperson3) Exported 1 credentials as TXT
+2025-06-30 14:11:23 - User ID 1258979456 (RexRockStore) Unauthorized access attempt
+2025-06-30 14:13:57 - User ID 2040287721 (unknownperson3) Started bot
+2025-06-30 14:14:49 - User ID 1258979456 (RexRockStore) Started bot
+2025-06-30 14:15:39 - User ID 1258979456 (RexRockStore) Viewed premium help guide
+2025-06-30 14:15:46 - User ID 1258979456 (RexRockStore) Started bot
+2025-06-30 14:16:46 - User ID 1258979456 (RexRockStore) Added Instagram ID: mypaejei
+2025-06-30 14:17:08 - User ID 1258979456 (RexRockStore) Added Instagram ID: eoevdjs
+2025-06-30 14:17:19 - User ID 1258979456 (RexRockStore) Started bot
+2025-06-30 14:17:28 - User ID 1258979456 (RexRockStore) Viewed credentials (3 total)
+2025-06-30 14:18:08 - User ID 1258979456 (RexRockStore) Exported 3 credentials as CSV
+2025-06-30 14:18:14 - User ID 1258979456 (RexRockStore) Exported 3 credentials as TXT
+2025-06-30 14:18:32 - User ID 1258979456 (RexRockStore) Viewed statistics dashboard
+2025-06-30 14:18:39 - User ID 1258979456 (RexRockStore) Accessed settings panel
+2025-06-30 14:19:35 - User ID 1258979456 (RexRockStore) Deleted account: mypaejei
+2025-06-30 14:21:43 - User ID 1258979456 (RexRockStore) Viewed statistics dashboard
+2025-06-30 14:23:10 - User ID 1258979456 (RexRockStore) Viewed credentials (2 total)
+2025-06-30 14:25:34 - User ID 1258979456 (RexRockStore) Deleted account: dshfsfyugsueyf
+2025-06-30 14:25:45 - User ID 1258979456 (RexRockStore) Started bot
+2025-06-30 14:25:49 - User ID 1258979456 (RexRockStore) Viewed credentials (1 total)
+2025-06-30 14:26:07 - User ID 1258979456 (RexRockStore) Deleted account: eoevdjs
+2025-06-30 14:32:47 - User ID 2040287721 (unknownperson3) Started bot
+2025-06-30 14:36:19 - User ID 2040287721 (unknownperson3) Viewed premium help guide
+2025-06-30 14:40:56 - User ID 2040287721 (unknownperson3) Started bot
+2025-06-30 14:40:59 - User ID 2040287721 (unknownperson3) Viewed premium help guide
+2025-06-30 14:41:44 - User ID 2040287721 (unknownperson3) Configured log group: -1001996108499
+2025-06-30 14:41:54 - User ID 2040287721 (unknownperson3) Started bot
+2025-06-30 14:42:10 - User ID 2040287721 (unknownperson3) Added Instagram ID: hhdhhhud
+2025-06-30 14:42:59 - User ID 2040287721 (unknownperson3) Viewed credentials (1 total)
+2025-06-30 14:43:21 - User ID 2040287721 (unknownperson3) Added Instagram ID: hsdufhush
+2025-06-30 14:46:27 - User ID 2040287721 (unknownperson3) Viewed statistics dashboard
+2025-06-30 14:47:29 - User ID 2040287721 (unknownperson3) Started bot
+2025-06-30 14:47:32 - User ID 2040287721 (unknownperson3) Viewed credentials (2 total)
+2025-06-30 14:48:04 - User ID 2040287721 (unknownperson3) Deleted account: hsdufhush
+2025-06-30 15:04:28 - User ID 2040287721 (unknownperson3) Started bot
+2025-06-30 15:05:40 - User ID 2040287721 (unknownperson3) Viewed premium help guide
+2025-06-30 15:09:14 - User ID 2040287721 (unknownperson3) Viewed credentials (1 total)
+2025-06-30 15:09:53 - User ID 2040287721 (unknownperson3) Started bot
+2025-06-30 15:11:29 - User ID 2040287721 (unknownperson3) Viewed credentials (1 total)
+2025-06-30 15:12:06 - User ID 2040287721 (unknownperson3) Viewed premium help guide
+2025-06-30 15:12:13 - User ID 2040287721 (unknownperson3) Exported 1 credentials as TXT
+2025-06-30 15:18:58 - User ID 1258979456 (RexRockStore) File upload attempt: lakshloda.txt
+2025-06-30 15:19:18 - User ID 2040287721 (unknownperson3) Exported 9 credentials as TXT
+2025-06-30 15:19:20 - User ID 1258979456 (RexRockStore) File upload attempt: lakshloda.txt
+2025-06-30 15:19:43 - User ID 2040287721 (unknownperson3) File upload attempt: lakshloda.txt
+2025-06-30 15:20:51 - User ID 2040287721 (unknownperson3) File upload attempt: lakshloda.txt
+2025-06-30 15:22:29 - User ID 2040287721 (unknownperson3) File upload attempt: lakshloda.txt
+2025-06-30 15:29:21 - User ID 2040287721 (unknownperson3) Started bot
+2025-06-30 15:29:25 - User ID 2040287721 (test) Started bot
+2025-06-30 15:29:47 - User ID 2040287721 (unknownperson3) File upload attempt: lakshloda.txt
+2025-06-30 15:29:48 - User ID 2040287721 (unknownperson3) Processing file: lakshloda.txt (93 bytes, txt)
+2025-06-30 15:29:50 - User ID 2040287721 (unknownperson3) Imported 7 credentials from txt file
+2025-06-30 15:30:10 - User ID 2040287721 (unknownperson3) Viewed credentials (16 total)
+2025-06-30 15:30:30 - User ID 2040287721 (unknownperson3) Started bot
+2025-06-30 15:30:32 - User ID 2040287721 (unknownperson3) Viewed credentials (16 total)
+2025-06-30 15:34:08 - User ID 2040287721 (unknownperson3) Viewed credentials (7 total)
+2025-06-30 15:34:40 - User ID 2040287721 (unknownperson3) Started bot
+2025-06-30 15:34:50 - User ID 2040287721 (unknownperson3) Viewed credentials (7 total)
+2025-06-30 15:37:11 - User ID 2040287721 (unknownperson3) Viewed credentials (7 total)
