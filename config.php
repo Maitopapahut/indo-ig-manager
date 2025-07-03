@@ -1,6 +1,6 @@
 <?php
 // Bot configuration
-define('BOT_TOKEN', '7673342712:AAEPVmPN-yhZYl4zumksfqK4IZONTWDzAj8');
+define('BOT_TOKEN', '7912629645:AAEaJW9JblAEgy5DGaMpHNlHq0X2ljBZG0k');
 define('TELEGRAM_API_URL', 'https://api.telegram.org/bot' . BOT_TOKEN . '/');
 
 // File paths
